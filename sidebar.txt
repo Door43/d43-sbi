@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sbi:home|Door43 (sbi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sbi|d43-sbi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sbi/archive/master.zip|d43-sbi.zip]]
+
+**Recent Changes**
+{{changes>ns = sbi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sbi|Ethnologue data]]
+
